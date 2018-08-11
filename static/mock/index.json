@@ -1,0 +1,129 @@
+{
+  "ret": true,
+  "data": {
+    "city": "杭州",
+    "swiperList": [
+      {
+        "id": "0001",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1807/45/32102b10079d2902.jpg_890x330_08fe6de3.jpg"
+      },
+      {
+        "id": "0002",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1807/12/2db716b489b9a102.jpg_890x330_92b317e7.jpg"
+      }
+    ],
+    "iconList": [
+      {
+        "id": "0001",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png",
+        "name": "热门景点"
+      },
+      {
+        "id": "0002",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1804/5a/13ceb38dcf262f02.png",
+        "name": "一日游"
+      },
+      {
+        "id": "0003",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/6a/45f595250c73d102.png",
+        "name": "夏日玩水"
+      },
+      {
+        "id": "0004",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/96/c70f1e85ae4a4f02.png",
+        "name": "自然风光"
+      },
+      {
+        "id": "0005",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1804/ff/fdf170ee89594b02.png",
+        "name": "必有榜单"
+      },
+      {
+        "id": "0006",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/48/cb72b99b71974c02.png",
+        "name": "生活休闲"
+      },
+      {
+        "id": "0007",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/87/20656da0ac042002.png",
+        "name": "长白山"
+      },
+      {
+        "id": "0008",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/87/20656da0ac042002.png",
+        "name": "长白山"
+      },
+      {
+        "id": "0009",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/87/20656da0ac042002.png",
+        "name": "长白山"
+      }
+    ],
+    "recommendList": [
+      {
+        "id": "001",
+        "title": "上海迪士尼乐园",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1607/7c/7cda8b6782dabd80b4.img.jpg_200x200_2039e660.jpg",
+        "star": 90,
+        "discuss": "168655条评论",
+        "price": 48,
+        "address": "萧山"
+      },
+      {
+        "id": "002",
+        "title": "杭州乐园",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/201408/14/dba7220ac844600c07a1af703f640935.jpg_200x200_a84b7d79.jpg",
+        "star": 80,
+        "discuss": "168655条评论",
+        "price": 120,
+        "address": "萧山",
+        "feature": "近期小伙伴们收藏最！多！的景点😊"
+      },
+      {
+        "id": "003",
+        "title": "虎啸峡漂流",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/201405/30/0c4071981e46cf9ce0812b56522ebb17.jpg_200x200_0c7e5a75.jpg",
+        "star": 80,
+        "discuss": "1686条评论",
+        "price": 170,
+        "address": "萧山"
+      },
+      {
+        "id": "004",
+        "title": "杭州浪浪浪水公园",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1706/45/456c4be6ba4fa604a3.img.jpg_200x200_81d9a0be.jpg",
+        "star": 50,
+        "discuss": "1685条评论",
+        "price": 120,
+        "address": "萧山",
+        "feature": "惊险刺激，让你彻底体验湿身的感觉"
+      }
+    ],
+    "weekendList": [
+      {
+        "id": "001",
+        "imgUrl": "http://img1.qunarzz.com/sight/source/1505/4e/3e87ee62e59cdb.jpg_r_640x214_fe6cc902.jpg",
+        "name": "杭州必游TOP10",
+        "desc": "杭州，前世今生与你有一场美丽约会"
+      },
+      {
+        "id": "002",
+        "imgUrl": "http://img1.qunarzz.com/sight/source/1505/9f/7d45cc38259e0.jpg_r_640x214_156f4299.jpg",
+        "name": "杭州必游TOP10",
+        "desc": "杭州，前世今生与你有一场美丽约会"
+      },
+      {
+        "id": "003",
+        "imgUrl": "http://img1.qunarzz.com/sight/source/1507/61/a7564da6033311.jpg_r_640x214_cc570e76.jpg",
+        "name": "杭州必游TOP10",
+        "desc": "杭州，前世今生与你有一场美丽约会"
+      },
+      {
+        "id": "004",
+        "imgUrl": "http://img1.qunarzz.com/sight/source/1505/ae/4fe23c6b6679e2.jpg_r_640x214_368a18d8.jpg",
+        "name": "杭州必游TOP10",
+        "desc": "杭州，前世今生与你有一场美丽约会"
+      }
+    ]
+  }
+}
